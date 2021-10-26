@@ -1,0 +1,27 @@
+{
+  "name": "prc24",
+  "version": "0.0.1",
+  "description": "Proyecto inicial API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "API",
+    "GeeksHubs"
+  ],
+  "author": "Jose Marin",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.14",
+    "winston": "^3.3.3"
+  }
+}
