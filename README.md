@@ -1,4 +1,4 @@
-# Express API Sequelize + MongoDB
+# Express API Mongoose + MongoDB
 
 ## COMANDOS BÁSICOS
 <br>
